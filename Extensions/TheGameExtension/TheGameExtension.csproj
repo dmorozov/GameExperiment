@@ -9,6 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TheGameCommons\TheGameCommons.csproj" />
+    <ProjectReference Include="..\..\Game\TheGameCommons\TheGameCommons.csproj" />
   </ItemGroup>
 </Project>

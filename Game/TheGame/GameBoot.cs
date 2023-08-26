@@ -10,7 +10,7 @@ public class GameBoot
     {
         Console.WriteLine(_welcomeText);
         Console.WriteLine("Loading extension ...");
-        var extensionAssembly = Assembly.LoadFrom("/Users/dmorozov/Work/GameExperiment/TheGameExtension/obj/Debug/net7.0/TheGameExtension.dll");
+        var extensionAssembly = Assembly.LoadFrom("/Users/dmorozov/Work/GameExperiment/Extensions/TheGameExtension/bin/Debug/net7.0/TheGameExtension.dll");
 
         if (extensionAssembly != null)
         {
