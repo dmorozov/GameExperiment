@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGame", "TheGame\TheGame.csproj", "{FC9F1F2B-6DF2-4AA3-9B10-F1D65D3FB758}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGameCommons", "TheGameCommons\TheGameCommons.csproj", "{45B2EF33-8315-4BCA-9A2D-2280A836217E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGame", "TheGame\TheGame.csproj", "{88ADF487-340A-42D5-8F03-3B91AEC91207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FC9F1F2B-6DF2-4AA3-9B10-F1D65D3FB758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC9F1F2B-6DF2-4AA3-9B10-F1D65D3FB758}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC9F1F2B-6DF2-4AA3-9B10-F1D65D3FB758}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC9F1F2B-6DF2-4AA3-9B10-F1D65D3FB758}.Release|Any CPU.Build.0 = Release|Any CPU
 		{45B2EF33-8315-4BCA-9A2D-2280A836217E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45B2EF33-8315-4BCA-9A2D-2280A836217E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B2EF33-8315-4BCA-9A2D-2280A836217E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B2EF33-8315-4BCA-9A2D-2280A836217E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ADF487-340A-42D5-8F03-3B91AEC91207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ADF487-340A-42D5-8F03-3B91AEC91207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ADF487-340A-42D5-8F03-3B91AEC91207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ADF487-340A-42D5-8F03-3B91AEC91207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
